@@ -86,9 +86,99 @@ Pada kondisi overflow, program tidak menambahkan elemen baru.
 
 ### Output_Praktikum_2
 <details>
-<summary><b>Screenshot Output</b></summary>
+<summary><b> Output</b></summary>
 
-![Output Praktikum 2](screenshots/P2_init.png)
+```text
+[fx@vx /home/fx ]$ java c_2/pASD_10/Praktikum-ASD/P2Jobsheet10/LayananAkademikSIAKAD07.java
+
+=== Menu Antrian Layanan Akademik ===
+1. Tambah Mahasiswa ke Antrian
+2. Layani Mahasiswa
+3. Lihat Mahasiswa Terdepan
+4. Lihat Semua Antrian
+5. Jumlah Mahasiswa dalam Antrian
+0. Keluar
+Pilih menu: 1
+NIM     : 123
+Nama    : Evan
+Prodi   : TI
+Kelas   : 2B
+Evan berhasil masuk ke antrian.
+
+=== Menu Antrian Layanan Akademik ===
+1. Tambah Mahasiswa ke Antrian
+2. Layani Mahasiswa
+3. Lihat Mahasiswa Terdepan
+4. Lihat Semua Antrian
+5. Jumlah Mahasiswa dalam Antrian
+0. Keluar
+Pilih menu: 1
+NIM     : 122
+Nama    : Theo
+Prodi   : TI
+Kelas   : T3
+Theo berhasil masuk ke antrian.
+
+=== Menu Antrian Layanan Akademik ===
+1. Tambah Mahasiswa ke Antrian
+2. Layani Mahasiswa
+3. Lihat Mahasiswa Terdepan
+4. Lihat Semua Antrian
+5. Jumlah Mahasiswa dalam Antrian
+0. Keluar
+Pilih menu: 4
+Daftar Mahasiswa dalam Antrian:
+NIM - NAMA - PRODI - KELAS
+1. 123 - Evan - TI - 2B
+2. 122 - Theo - TI - T3
+
+=== Menu Antrian Layanan Akademik ===
+1. Tambah Mahasiswa ke Antrian
+2. Layani Mahasiswa
+3. Lihat Mahasiswa Terdepan
+4. Lihat Semua Antrian
+5. Jumlah Mahasiswa dalam Antrian
+0. Keluar
+Pilih menu: 2
+Melayani mahasiswa: 
+123 - Evan - TI - 2B
+
+=== Menu Antrian Layanan Akademik ===
+1. Tambah Mahasiswa ke Antrian
+2. Layani Mahasiswa
+3. Lihat Mahasiswa Terdepan
+4. Lihat Semua Antrian
+5. Jumlah Mahasiswa dalam Antrian
+0. Keluar
+Pilih menu: 4
+Daftar Mahasiswa dalam Antrian:
+NIM - NAMA - PRODI - KELAS
+1. 122 - Theo - TI - T3
+
+=== Menu Antrian Layanan Akademik ===
+1. Tambah Mahasiswa ke Antrian
+2. Layani Mahasiswa
+3. Lihat Mahasiswa Terdepan
+4. Lihat Semua Antrian
+5. Jumlah Mahasiswa dalam Antrian
+0. Keluar
+Pilih menu: 5
+Jumlah dalam antrian: 1
+
+=== Menu Antrian Layanan Akademik ===
+1. Tambah Mahasiswa ke Antrian
+2. Layani Mahasiswa
+3. Lihat Mahasiswa Terdepan
+4. Lihat Semua Antrian
+5. Jumlah Mahasiswa dalam Antrian
+0. Keluar
+Pilih menu: 0
+Terima kasih.
+[fx@vx /home/fx ]$ 
+```
+
+<!-- ![Output Praktikum 2](screenshots/P2_init.png) -->
+
 </details>
 
 ### Pertanyaan_Praktikum_2
