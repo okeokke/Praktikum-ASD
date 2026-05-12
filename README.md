@@ -189,6 +189,97 @@ Lakukan modifikasi program dengan menambahkan method baru bernama `LihatAkhir` p
 
 ### Jawaban_Praktikum_2
 
+<details>
+<summary><b> Output</b></summary>
+
+```text
+[fx@vx /home/fx ]$ java c_2/pASD_10/Praktikum-ASD/P2Jobsheet10/LayananAkademikSIAKAD07.java
+
+=== Menu Antrian Layanan Akademik ===
+1. Tambah Mahasiswa ke Antrian
+2. Layani Mahasiswa
+3. Lihat Mahasiswa Terdepan
+4. Lihat Semua Antrian
+5. Jumlah Mahasiswa dalam Antrian
+6. Cek Antrian paling belakang
+0. Keluar
+Pilih menu: 1
+NIM     : 11
+Nama    : Evan
+Prodi   : IE
+Kelas   : 2B
+Evan berhasil masuk ke antrian.
+
+=== Menu Antrian Layanan Akademik ===
+1. Tambah Mahasiswa ke Antrian
+2. Layani Mahasiswa
+3. Lihat Mahasiswa Terdepan
+4. Lihat Semua Antrian
+5. Jumlah Mahasiswa dalam Antrian
+6. Cek Antrian paling belakang
+0. Keluar
+Pilih menu: 1
+NIM     : 12
+Nama    : Theo
+Prodi   : TI
+Kelas   : T3
+Theo berhasil masuk ke antrian.
+
+=== Menu Antrian Layanan Akademik ===
+1. Tambah Mahasiswa ke Antrian
+2. Layani Mahasiswa
+3. Lihat Mahasiswa Terdepan
+4. Lihat Semua Antrian
+5. Jumlah Mahasiswa dalam Antrian
+6. Cek Antrian paling belakang
+0. Keluar
+Pilih menu: 3
+Mahasiswa terdepan: 
+NIM - NAMA - PRODI - KELAS
+11 - Evan - IE - 2B
+
+=== Menu Antrian Layanan Akademik ===
+1. Tambah Mahasiswa ke Antrian
+2. Layani Mahasiswa
+3. Lihat Mahasiswa Terdepan
+4. Lihat Semua Antrian
+5. Jumlah Mahasiswa dalam Antrian
+6. Cek Antrian paling belakang
+0. Keluar
+Pilih menu: 6
+Mahasiswa paling belakang: 
+NIM - NAMA - PRODI - KELAS
+12 - Theo - TI - T3
+
+=== Menu Antrian Layanan Akademik ===
+1. Tambah Mahasiswa ke Antrian
+2. Layani Mahasiswa
+3. Lihat Mahasiswa Terdepan
+4. Lihat Semua Antrian
+5. Jumlah Mahasiswa dalam Antrian
+6. Cek Antrian paling belakang
+0. Keluar
+Pilih menu: 4
+Daftar Mahasiswa dalam Antrian:
+NIM - NAMA - PRODI - KELAS
+1. 11 - Evan - IE - 2B
+2. 12 - Theo - TI - T3
+
+=== Menu Antrian Layanan Akademik ===
+1. Tambah Mahasiswa ke Antrian
+2. Layani Mahasiswa
+3. Lihat Mahasiswa Terdepan
+4. Lihat Semua Antrian
+5. Jumlah Mahasiswa dalam Antrian
+6. Cek Antrian paling belakang
+0. Keluar
+Pilih menu: 0
+Terima kasih.
+[fx@vx /home/fx ]$ 
+```
+
+</details>
+
 [Kembali ke #Daftar_Percobaan](#daftar_percobaan)
 
 ---
