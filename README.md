@@ -64,15 +64,14 @@
 5. `i = (i + 1) % max;` melakukan wrap-around menggunakan modulo sehingga indeks kembali ke 0 setelah mencapai akhir array.
 
 6. Overflow terjadi saat `size == max`. Dicek oleh `IsFull()` dan ditangani di `Enqueue` (contoh menampilkan "Queue sudah penuh"), misalnya:
-
 ```java
 public boolean IsFull(){
   return size == max;
 }
 ```
-
 Pada kondisi overflow, program tidak menambahkan elemen baru.
 
+7. Dengan menambahkan `System.exit(1);` pada perintah statement if positif pada fungsi `Enqueue` dan `Dequeue` program akan exit setelah menapilkan pesan over/under-flow.  ![](P1_plus.png)
 
 [Kembali ke #Daftar_Percobaan](#daftar_percobaan)
 
