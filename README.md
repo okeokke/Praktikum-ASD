@@ -1,6 +1,6 @@
 # Jobsheet 10 - Queue (Antrian)
 
-## [Tugas](#latihan-praktikum) | [Daftar Percobaan](#daftar_percobaan)
+## [Tugas](#Tugas) | [Daftar Percobaan](#daftar_percobaan)
 
 ---
 
@@ -286,4 +286,12 @@ Terima kasih.
 
 ## Tugas
 
+[AntrianKRS07.java](Tugas/AntrianKRS07.java)  
+[KRSMain07.java](Tugas/KRSMain07.java)  
+[Mahasiswa07.java](Tugas/Mahasiswa07.java)
+
+### Output 
 ![alt text](T_out.png)
+
+### Class_Diagram
+![alt text](diagram.png)
