@@ -1,6 +1,6 @@
 # Jobsheet 10 - Queue (Antrian)
 
-## [Latihan Praktikum](#latihan-praktikum) | [Daftar Percobaan](#daftar_percobaan)
+## [Tugas](#latihan-praktikum) | [Daftar Percobaan](#daftar_percobaan)
 
 ---
 
@@ -283,3 +283,7 @@ Terima kasih.
 [Kembali ke #Daftar_Percobaan](#daftar_percobaan)
 
 ---
+
+## Tugas
+
+![alt text](T_out.png)
